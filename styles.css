@@ -750,7 +750,7 @@ height: 100%;
    
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   .contact-box {
     width: 95%;
     margin: 8% 5%;
@@ -889,7 +889,7 @@ textarea:valid+label {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
   .container {
     margin-left: 1rem;
     margin-right: 1rem;
